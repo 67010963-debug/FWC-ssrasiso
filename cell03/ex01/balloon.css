@@ -1,0 +1,12 @@
+body {
+    margin: 40px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#balloon {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50%;
+    cursor: pointer;
+}

@@ -1,0 +1,22 @@
+body {
+    margin: 40px;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #f4f4f6;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+input, select {
+    font-size: 16px;
+    padding: 6px 8px;
+}
+
+input[type="text"] {
+    width: 90px;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+}
